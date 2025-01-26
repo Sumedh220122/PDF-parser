@@ -13,6 +13,6 @@ Add your own pdf file and gemini api key in the extractor.py file and then run:
  python extractor.py
 ```
 
-Additionally, a streamlit app hosted on https://huggingface.co/spaces/Sumedh22/PDF-parser can also be used. If you need to run it locally, clone the github repo and follow the above instructions < /br>
+Additionally, a streamlit app hosted on https://huggingface.co/spaces/Sumedh22/PDF-parser can also be used. If you need to run it locally, clone the github repo and follow the above instructions </br>
 
 To create a google-api-key, follow the instructions in the following website: https://ai.google.dev/gemini-api/docs/api-key
