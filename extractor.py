@@ -5,7 +5,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from schema import SchemaReviews
 
 
-loader = PyPDFLoader("C:/Users/ravi_/Downloads/Sumedh_cloud.pdf")
+loader = PyPDFLoader("Sumedh_cloud.pdf")
 pages = loader.load_and_split()
 
 text = " ".join(list(map(lambda page: page.page_content, pages)))
