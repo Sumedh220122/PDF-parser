@@ -13,4 +13,4 @@ Add your own pdf file and gemini api key in the extractor.py file and then run:
  python extractor.py
 ```
 
-Additoinally, a streamlit app hosted on https://huggingface.co/spaces/Sumedh22/PDF-parser can also be used. If you need to run it locally, clone the github repo and follow the above instructions 
+Additionally, a streamlit app hosted on https://huggingface.co/spaces/Sumedh22/PDF-parser can also be used. If you need to run it locally, clone the github repo and follow the above instructions 
