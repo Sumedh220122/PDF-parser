@@ -23,4 +23,4 @@ structured_llm = llm.with_structured_output(SchemaReviews)
 
 response = structured_llm.invoke(text)
 
-print(response)
+print(response.content)
