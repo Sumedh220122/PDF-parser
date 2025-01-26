@@ -1,4 +1,4 @@
 langchain_community
 langchain-google-genai
 pypdf
-langchain-mistral-ai
+langchain-mistralai
